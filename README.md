@@ -20,4 +20,4 @@ The application includes the following features:
  JavaScript for the frontend ensures a smooth and efficient performance.
  
  Login:
- https://github.com/Itshari891/Radius-Social_media_App/blob/master/static/assets/images/screenshots/login.png
+ (https://github.com/Itshari891/Radius-Social_media_App/blob/master/static/assets/images/screenshots/login.png)
