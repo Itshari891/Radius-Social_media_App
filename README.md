@@ -19,6 +19,14 @@ The application includes the following features:
  The use of Python and Django for the backend, MySQL for the database, and 
  JavaScript for the frontend ensures a smooth and efficient performance.
  
- Login:
+# LOGIN :
  ![login](https://user-images.githubusercontent.com/106607222/215323574-fd025f0e-8fac-4a53-bd6e-e400281db71a.png)
 
+# PROFILE :
+![profile](https://user-images.githubusercontent.com/106607222/215323651-d9629185-1d13-49e2-bc09-c152751a563c.jpg)
+
+# HOME :
+![home](https://user-images.githubusercontent.com/106607222/215323708-c3ccc45b-1afa-4171-935e-8f657e017dad.png)
+
+# SEARCH RESULT :
+![srch](https://user-images.githubusercontent.com/106607222/215323748-60a7ec11-0821-42ec-9d86-4328c0727d76.jpg)
