@@ -1,6 +1,6 @@
 # Radius-Social_media_App
-#The project is a social media application built using Python, Django, MySQL, and JavaScript. 
-The application includes the following features:
+# The project is a social media application built using Python, Django, MySQL, and JavaScript. 
+  The application includes the following features:
 
 -User registration and login: Users can create an account and log in to access the platform.
 
